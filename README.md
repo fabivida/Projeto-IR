@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para fins de aprendizado geral do Excel, focando n
 
 ## Arquivos
 
-- `meu-projeto.xlsx`: arquivo principal contendo todas as planilhas automatizadas
+- `meu projeto IR.xlsx`: arquivo principal contendo todas as planilhas automatizadas
 
 ## Tecnologias utilizadas
 
@@ -22,5 +22,6 @@ Este projeto foi desenvolvido para fins de aprendizado geral do Excel, focando n
 ---
 
 *Este projeto foi criado com o intuito de aprimorar habilidades práticas no Excel e explorar possibilidades de automação e personalização dentro das planilhas.*
+
 
 By Fabiana Vida
